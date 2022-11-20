@@ -1,4 +1,6 @@
-# tracker
+# Tracker
+
+Control your tasks using this simple and clean Tracker program!
 
 ## Project setup
 ```
@@ -22,3 +24,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Techs
+ - Typescript
+ - Vue.js
+ 
